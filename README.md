@@ -1,0 +1,2 @@
+# Analysis-Of-Medium-App-Reviews-From-Google-Play-Store
+This project focuses on analyzing user reviews of the Medium app collected from the Google Play Store to gain insights into user satisfaction, common issues. The dataset includes user reviews, ratings, review dates. The analysis involves preprocessing the textual data and applying natural language processing methods such as sentiment classification
